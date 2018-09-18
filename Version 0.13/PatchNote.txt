@@ -1,0 +1,4 @@
+Ajout :
+
+-Ajout mode de difficulté Fade/Speed
+
